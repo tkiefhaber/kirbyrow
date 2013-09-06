@@ -1,0 +1,44 @@
+h1 {
+  text-align: center;
+  position: relative;
+  font: bold italic 45px/1.5 Helvetica, Verdana, sans-serif;
+  color: #262626;
+  opacity: 0.9;
+}
+
+div {
+  width: 550px;
+  margin: 0px auto;
+}
+ 
+input {
+  margin-left: 9%;
+  width: 90%;
+  height: 30px;
+  font-size: 18px;
+  border-radius: 4px;
+}
+
+ul {
+  color: #ccc;
+  list-style-type: none;
+}
+ 
+ul li {
+  position: relative;
+  font: bold italic 45px/1.5 Helvetica, Verdana, sans-serif;
+  margin-bottom: 20px;
+}
+ 
+li p {
+  font: 12px/1.5 Helvetica, sans-serif;
+  padding-left: 120px;
+  padding-top: 13px;
+  color: #555;
+  text-align: right;
+}
+ 
+span {
+  position: absolute;
+}
+
